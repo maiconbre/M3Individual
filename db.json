@@ -1,0 +1,132 @@
+{
+    "tatuadores": [
+        {
+            "id": 1,
+            "nome": "Tamires",
+            "experiencia": "2 anos",
+            "estilo": "Black Work",
+            "maquina":"Rotativa Neon Pen TH PRO"
+        },
+        {
+            "id": 2,
+            "nome": "Maicon",
+            "experiencia": "4 anos",
+            "estilo": "Fine Line",
+            "maquina":"Pen Pop Electrick Ink"
+        },
+        {
+            "id": 3,
+            "nome": "Bernardo",
+            "experiencia": "3 anos",
+            "estilo": "Aquarela",
+            "maquina": "Híbrida Bobina Mz Machine"
+        },
+        {
+            "id": 4,
+            "nome": "Grazi",
+            "experiencia": "2 anos",
+            "estilo": "Old School",
+            "maquina": "Rotativa Eclipse Rca"
+        },
+        {
+            "id": 5,
+            "nome": "Kesia",
+            "experiencia": "3 anos",
+            "estilo": "Pontilhismo",
+            "maquina":"Aston Pen Bronc V6"
+        }
+    ],
+    "atendentes": [
+        {
+            "id": 1,
+            "nome": "Carlos",
+            "experiencia": "1 ano"
+        },
+        {
+            "id": 2,
+            "nome": "Barbara",
+            "experiencia": "2 anos"
+        },
+        {
+            "id": 3,
+            "nome": "Juliano",
+            "experiencia": "2 anos"
+        },
+        {
+            "id": 4,
+            "nome": "Maria",
+            "experiencia": "2 anos"
+        }
+    ],
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "agulhas",
+            "marca":"Naja",
+            "quantidade": 77
+        },
+        {
+            "id": 2,
+            "nome": "luvas",
+            "marca":"Supermax",
+            "tipo":"nitrílica",
+            "quantidade": 71
+        },
+        {
+            "id": 3,
+            "nome": "Biqueiras",
+            "marca":"Electric Ink",
+            "quantidade": 49
+        },
+        {
+            "id": 4,
+            "nome": "Papel Toalha",
+            "marca":"Ouroppel",
+            "tipo":"interfolha",
+            "quantidade": 124
+        },
+        {
+            "id": 5,
+            "nome": "cartuchos",
+            "marca":"Poseidon",
+            "quantidade": 84
+        },
+        {
+            "id": 6,
+            "nome": "batoques",
+            "marca":"Electric Ink",
+            "tipo":"silicone",
+            "quantidade": 76
+        }
+    ],
+    "studios": [
+        {
+            "id": 1,
+            "endereço":"R. Tietê, 160",
+            "Bairro": "Bangu",
+            "horário":"14:00 ás 22:00",
+            "estilo": "Fine Line"
+        },
+        {
+            "id": 2,
+            "endereço":"R. Augusto de Vasconcelos, 90",
+            "Bairro": "Campo Grande",
+            "horário":"12:00 ás 20:00",
+            "estilo": "Black Work"
+        },
+        {
+            "id": 3,
+            "endereço":"R. Cardoso Martins, 41",
+            "Bairro": "Realengo",
+            "horário":"10:00 ás 18:00",
+            "estilo": "Old School"
+        },
+        {
+            "id": 4,
+            "endereço": "Rua Maria de Freitas, 146",
+            "Bairro": "Madureira",
+            "horário":"08:00 ás 16:00",
+            "estilo": "Pontilhismo"
+        }
+    ]
+}
