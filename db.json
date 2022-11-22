@@ -3,7 +3,7 @@
   {
     "id": 1,
     "nome": "Brenda Palácios",
-    "experiencia": "3 anos de experiência de trabalho.",
+    "experiencia": "7 anos",
     "estilo": "Realismo - Glitch - Geométrico",
     "descricao": "Cores fortes e elementos da cultura japonesa são a característica essencial nesse estilo de tatuagem. Ficaram famosas por causa da máfia japonesa Yakuza, e tem como uma característica supermarcante desenhos que fecham todo o corpo ou parte dele.",
     "traços_id": 1,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "nome": "Benicio Braga",
-    "experiencia": "2 anos de experiência de trabalho.",
+    "experiencia": "3 anos",
     "estilo": "Maori - Oriental - Tinta Vermelha",
     "descricao": "As cores vibrantes são a principal característica das tatuagens new school. Porém, diferente das old school, elas possuem uma maior variedade de tons e traços. A temática urbana, que lembram cartoons e a arte do grafitti são marcantes nos desenhos deste estilo.",
     "traços_id": 2,
@@ -21,7 +21,7 @@
 {
     "id": 3,
     "nome": "Fernando Torres",
-    "experiencia": "15 anos de experiência de trabalho.",
+    "experiencia": "5 anos",
     "estilo": "Realismo - Black Work - Old School",
     "traços_id": 2,
     "studios_id": 1
