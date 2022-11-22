@@ -1,41 +1,32 @@
 {
     "tatuadores": [
-        {
-            "id": 1,
-            "nome": "Tamires",
-            "experiencia": "2 anos",
-            "estilo": "Black Work",
-            "maquina":"Rotativa Neon Pen TH PRO"
-        },
-        {
-            "id": 2,
-            "nome": "Maicon",
-            "experiencia": "4 anos",
-            "estilo": "Fine Line",
-            "maquina":"Pen Pop Electrick Ink"
-        },
-        {
-            "id": 3,
-            "nome": "Bernardo",
-            "experiencia": "3 anos",
-            "estilo": "Aquarela",
-            "maquina": "Híbrida Bobina Mz Machine"
-        },
-        {
-            "id": 4,
-            "nome": "Grazi",
-            "experiencia": "2 anos",
-            "estilo": "Old School",
-            "maquina": "Rotativa Eclipse Rca"
-        },
-        {
-            "id": 5,
-            "nome": "Kesia",
-            "experiencia": "3 anos",
-            "estilo": "Pontilhismo",
-            "maquina":"Aston Pen Bronc V6"
-        }
-    ],
+  {
+    "id": 1,
+    "nome": "Brenda Palácios",
+    "experiencia": "3 anos de experiência de trabalho.",
+    "estilo": "Realismo - Glitch - Geométrico",
+    "descricao": "Cores fortes e elementos da cultura japonesa são a característica essencial nesse estilo de tatuagem. Ficaram famosas por causa da máfia japonesa Yakuza, e tem como uma característica supermarcante desenhos que fecham todo o corpo ou parte dele.",
+    "traços_id": 1,
+    "studios_id": 4
+  },
+  {
+    "id": 2,
+    "nome": "Benicio Braga",
+    "experiencia": "2 anos de experiência de trabalho.",
+    "estilo": "Maori - Oriental - Tinta Vermelha",
+    "descricao": "As cores vibrantes são a principal característica das tatuagens new school. Porém, diferente das old school, elas possuem uma maior variedade de tons e traços. A temática urbana, que lembram cartoons e a arte do grafitti são marcantes nos desenhos deste estilo.",
+    "traços_id": 2,
+    "studios_id": 1
+  },
+{
+    "id": 3,
+    "nome": "Fernando Torres",
+    "experiencia": "15 anos de experiência de trabalho.",
+    "estilo": "Realismo - Black Work - Old School",
+    "traços_id": 2,
+    "studios_id": 1
+  }
+],
     "atendentes": [
         {
             "id": 1,
